@@ -6,7 +6,7 @@
 
 To install dependencies, run:
 
-git clone https://github.com/your-username/HawkEye.git
+git clone https://github.com/hackerjacke440/HawkEye.git
 
 cd HawkEye
 
